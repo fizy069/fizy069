@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahir</h1>
-<h3 align="center">A passionate full stack developer from BITS Pilani Goa, India.</h3>
+<h3 align="center">A passionate developer from BITS Pilani Goa, India.</h3>
+<h4 align="center">Senior Dev at Developer's Society, BITS Goa</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
